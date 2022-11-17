@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Master Basic Maths</string>
+    <string name="q" translatable="false">"?"</string>
+</resources>
